@@ -1,0 +1,19 @@
+ion-app{
+  background-color: black;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+video{
+  width: 100vw;
+  height: 100vh;
+}
+ion-button{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  
+  color: transparent;
+  --background: transparent;
+  border: none;
+}

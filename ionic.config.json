@@ -1,0 +1,7 @@
+{
+  "name": "egyeniprojekt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
